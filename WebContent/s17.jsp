@@ -9,7 +9,6 @@
 			}
 			body{
 				margin: 0px; /* body와 div 사이 공백 제거 */
-				background-image: url('/img/back.jpg') ;
 				background-size: cover;
 			}
 			#menu{
